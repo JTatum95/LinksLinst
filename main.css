@@ -12,7 +12,10 @@ h5{
 .love{
     color: #343a40 !important;
 }
-
+span {
+    height: 15px;
+    width: 15px;
+}
 .logo {
     background-size: cover;
     height: 15px;
